@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MatrixDeterminant
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.14.
@@ -57,3 +58,6 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+=======
+# calculadoraMatriz2.front
+>>>>>>> e7f17befb83016fb443f88a43e621fec3aca79d4
